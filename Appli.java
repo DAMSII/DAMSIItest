@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-pablic class Appli {
+pablice class Appli {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
